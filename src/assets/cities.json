@@ -1,0 +1,639 @@
+[
+  {
+    "code": "01",
+    "visited": false,
+    "photos": [],
+    "name": "Adana",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "02",
+    "visited": false,
+    "photos": [],
+    "name": "Adıyaman",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "03",
+    "visited": false,
+    "photos": [],
+    "name": "Afyonkarahisar",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "04",
+    "visited": false,
+    "photos": [],
+    "name": "Ağrı",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "05",
+    "visited": false,
+    "photos": [],
+    "name": "Amasya",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "06",
+    "visited": true,
+    "photos": [],
+    "name": "Ankara",
+    "visitedFrom": "∞",
+    "visitedTo": "∞"
+  },
+  {
+    "code": "07",
+    "visited": false,
+    "photos": [],
+    "name": "Antalya",
+    "visitedFrom": null,
+    "visitedTo": ""
+  },
+  {
+    "code": "08",
+    "visited": false,
+    "photos": [],
+    "name": "Artvin",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "09",
+    "visited": false,
+    "photos": [],
+    "name": "Aydın",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "10",
+    "visited": false,
+    "photos": [],
+    "name": "Balıkesir",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "11",
+    "visited": false,
+    "photos": [],
+    "name": "Bilecik",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "12",
+    "visited": false,
+    "photos": [],
+    "name": "Bingöl",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "13",
+    "visited": false,
+    "photos": [],
+    "name": "Bitlis",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "14",
+    "visited": false,
+    "photos": [],
+    "name": "Bolu",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "15",
+    "visited": false,
+    "photos": [],
+    "name": "Burdur",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "16",
+    "visited": false,
+    "photos": [],
+    "name": "Bursa",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "17",
+    "visited": false,
+    "photos": [],
+    "name": "Çanakkale",
+    "visitedFrom": null,
+    "visitedTo": ""
+  },
+  {
+    "code": "18",
+    "visited": false,
+    "photos": [],
+    "name": "Çankırı",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "19",
+    "visited": false,
+    "photos": [],
+    "name": "Çorum",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "20",
+    "visited": false,
+    "photos": [],
+    "name": "Denizli",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "21",
+    "visited": false,
+    "photos": [],
+    "name": "Diyarbakır",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "22",
+    "visited": false,
+    "photos": [],
+    "name": "Edirne",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "23",
+    "visited": false,
+    "photos": [],
+    "name": "Elazığ",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "24",
+    "visited": false,
+    "photos": [],
+    "name": "Erzincan",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "25",
+    "visited": false,
+    "photos": [],
+    "name": "Erzurum",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "26",
+    "visited": false,
+    "photos": [],
+    "name": "Eskişehir",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "27",
+    "visited": true,
+    "photos": [],
+    "name": "Gaziantep",
+    "visitedFrom": "05/06/2026",
+    "visitedTo": "07/06/2026"
+  },
+  {
+    "code": "28",
+    "visited": false,
+    "photos": [],
+    "name": "Giresun",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "29",
+    "visited": false,
+    "photos": [],
+    "name": "Gümüşhane",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "30",
+    "visited": false,
+    "photos": [],
+    "name": "Hakkâri",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "31",
+    "visited": false,
+    "photos": [],
+    "name": "Hatay",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "32",
+    "visited": false,
+    "photos": [],
+    "name": "Isparta",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "33",
+    "visited": false,
+    "photos": [],
+    "name": "Mersin",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "34",
+    "visited": false,
+    "photos": [],
+    "name": "İstanbul",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "35",
+    "visited": false,
+    "photos": [],
+    "name": "İzmir",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "36",
+    "visited": false,
+    "photos": [],
+    "name": "Kars",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "37",
+    "visited": false,
+    "photos": [],
+    "name": "Kastamonu",
+    "visitedFrom": null,
+    "visitedTo": ""
+  },
+  {
+    "code": "38",
+    "visited": false,
+    "photos": [],
+    "name": "Kayseri",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "39",
+    "visited": false,
+    "photos": [],
+    "name": "Kırklareli",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "40",
+    "visited": false,
+    "photos": [],
+    "name": "Kırşehir",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "41",
+    "visited": false,
+    "photos": [],
+    "name": "Kocaeli",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "42",
+    "visited": false,
+    "photos": [],
+    "name": "Konya",
+    "visitedFrom": null,
+    "visitedTo": ""
+  },
+  {
+    "code": "43",
+    "visited": false,
+    "photos": [],
+    "name": "Kütahya",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "44",
+    "visited": false,
+    "photos": [],
+    "name": "Malatya",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "45",
+    "visited": false,
+    "photos": [],
+    "name": "Manisa",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "46",
+    "visited": false,
+    "photos": [],
+    "name": "Kahramanmaraş",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "47",
+    "visited": false,
+    "photos": [],
+    "name": "Mardin",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "48",
+    "visited": false,
+    "photos": [],
+    "name": "Muğla",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "49",
+    "visited": false,
+    "photos": [],
+    "name": "Muş",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "50",
+    "visited": true,
+    "photos": [],
+    "name": "Nevşehir",
+    "visitedFrom": "31/01/2026",
+    "visitedTo": "01/02/2026"
+  },
+  {
+    "code": "51",
+    "visited": false,
+    "photos": [],
+    "name": "Niğde",
+    "visitedFrom": null,
+    "visitedTo": ""
+  },
+  {
+    "code": "52",
+    "visited": false,
+    "photos": [],
+    "name": "Ordu",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "53",
+    "visited": false,
+    "photos": [],
+    "name": "Rize",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "54",
+    "visited": false,
+    "photos": [],
+    "name": "Sakarya",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "55",
+    "visited": true,
+    "photos": [],
+    "name": "Samsun",
+    "visitedFrom": "30/04/2026",
+    "visitedTo": "03/05/2026"
+  },
+  {
+    "code": "56",
+    "visited": false,
+    "photos": [],
+    "name": "Siirt",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "57",
+    "visited": false,
+    "photos": [],
+    "name": "Sinop",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "58",
+    "visited": false,
+    "photos": [],
+    "name": "Sivas",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "59",
+    "visited": false,
+    "photos": [],
+    "name": "Tekirdağ",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "60",
+    "visited": false,
+    "photos": [],
+    "name": "Tokat",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "61",
+    "visited": false,
+    "photos": [],
+    "name": "Trabzon",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "62",
+    "visited": false,
+    "photos": [],
+    "name": "Tunceli",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "63",
+    "visited": false,
+    "photos": [],
+    "name": "Şanlıurfa",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "64",
+    "visited": false,
+    "photos": [],
+    "name": "Uşak",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "65",
+    "visited": false,
+    "photos": [],
+    "name": "Van",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "66",
+    "visited": false,
+    "photos": [],
+    "name": "Yozgat",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "67",
+    "visited": false,
+    "photos": [],
+    "name": "Zonguldak",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "68",
+    "visited": false,
+    "photos": [],
+    "name": "Aksaray",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "69",
+    "visited": false,
+    "photos": [],
+    "name": "Bayburt",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "70",
+    "visited": false,
+    "photos": [],
+    "name": "Karaman",
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "71",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "72",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "73",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "74",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "75",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "76",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "77",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "78",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "79",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "80",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  },
+  {
+    "code": "81",
+    "visited": false,
+    "photos": [],
+    "visitedFrom": null,
+    "visitedTo": null
+  }
+]

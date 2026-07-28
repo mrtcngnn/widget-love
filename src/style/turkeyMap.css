@@ -1,0 +1,10 @@
+.city {
+  fill: white;
+}
+
+.turkeyMap {
+  width: min(95vw, 1600px);
+  max-height: 80vh;
+  height: auto;
+  display: block;
+}

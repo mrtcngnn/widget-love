@@ -56,5 +56,6 @@ function cityPersistencePlugin() {
 }
 
 export default defineConfig({
+  base: "/widget-love/",
   plugins: [react(), svgr(), cityPersistencePlugin()],
 });

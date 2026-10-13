@@ -11,6 +11,7 @@ export interface CityEntry {
   visitedFrom: string | null;
   visitedTo: string | null;
   photos: string[];
+  photosPath?: string;
 }
 
 interface CitiesState {

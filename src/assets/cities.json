@@ -3,6 +3,7 @@
     "code": "01",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/01/",
     "name": "Adana",
     "visitedFrom": null,
     "visitedTo": null
@@ -11,6 +12,7 @@
     "code": "02",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/02/",
     "name": "Adıyaman",
     "visitedFrom": null,
     "visitedTo": null
@@ -19,6 +21,7 @@
     "code": "03",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/03/",
     "name": "Afyonkarahisar",
     "visitedFrom": null,
     "visitedTo": null
@@ -27,6 +30,7 @@
     "code": "04",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/04/",
     "name": "Ağrı",
     "visitedFrom": null,
     "visitedTo": null
@@ -35,6 +39,7 @@
     "code": "05",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/05/",
     "name": "Amasya",
     "visitedFrom": null,
     "visitedTo": null
@@ -43,6 +48,7 @@
     "code": "06",
     "visited": true,
     "photos": [],
+    "photosPath": "city-photos/06/",
     "name": "Ankara",
     "visitedFrom": "∞",
     "visitedTo": "∞"
@@ -51,6 +57,7 @@
     "code": "07",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/07/",
     "name": "Antalya",
     "visitedFrom": null,
     "visitedTo": ""
@@ -59,6 +66,7 @@
     "code": "08",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/08/",
     "name": "Artvin",
     "visitedFrom": null,
     "visitedTo": null
@@ -67,6 +75,7 @@
     "code": "09",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/09/",
     "name": "Aydın",
     "visitedFrom": null,
     "visitedTo": null
@@ -75,6 +84,7 @@
     "code": "10",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/10/",
     "name": "Balıkesir",
     "visitedFrom": null,
     "visitedTo": null
@@ -83,6 +93,7 @@
     "code": "11",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/11/",
     "name": "Bilecik",
     "visitedFrom": null,
     "visitedTo": null
@@ -91,6 +102,7 @@
     "code": "12",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/12/",
     "name": "Bingöl",
     "visitedFrom": null,
     "visitedTo": null
@@ -99,6 +111,7 @@
     "code": "13",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/13/",
     "name": "Bitlis",
     "visitedFrom": null,
     "visitedTo": null
@@ -107,6 +120,7 @@
     "code": "14",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/14/",
     "name": "Bolu",
     "visitedFrom": null,
     "visitedTo": null
@@ -115,6 +129,7 @@
     "code": "15",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/15/",
     "name": "Burdur",
     "visitedFrom": null,
     "visitedTo": null
@@ -123,6 +138,7 @@
     "code": "16",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/16/",
     "name": "Bursa",
     "visitedFrom": null,
     "visitedTo": null
@@ -131,6 +147,7 @@
     "code": "17",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/17/",
     "name": "Çanakkale",
     "visitedFrom": null,
     "visitedTo": ""
@@ -139,6 +156,7 @@
     "code": "18",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/18/",
     "name": "Çankırı",
     "visitedFrom": null,
     "visitedTo": null
@@ -147,6 +165,7 @@
     "code": "19",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/19/",
     "name": "Çorum",
     "visitedFrom": null,
     "visitedTo": null
@@ -155,6 +174,7 @@
     "code": "20",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/20/",
     "name": "Denizli",
     "visitedFrom": null,
     "visitedTo": null
@@ -163,6 +183,7 @@
     "code": "21",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/21/",
     "name": "Diyarbakır",
     "visitedFrom": null,
     "visitedTo": null
@@ -171,6 +192,7 @@
     "code": "22",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/22/",
     "name": "Edirne",
     "visitedFrom": null,
     "visitedTo": null
@@ -179,6 +201,7 @@
     "code": "23",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/23/",
     "name": "Elazığ",
     "visitedFrom": null,
     "visitedTo": null
@@ -187,6 +210,7 @@
     "code": "24",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/24/",
     "name": "Erzincan",
     "visitedFrom": null,
     "visitedTo": null
@@ -195,6 +219,7 @@
     "code": "25",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/25/",
     "name": "Erzurum",
     "visitedFrom": null,
     "visitedTo": null
@@ -203,6 +228,7 @@
     "code": "26",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/26/",
     "name": "Eskişehir",
     "visitedFrom": null,
     "visitedTo": null
@@ -211,6 +237,7 @@
     "code": "27",
     "visited": true,
     "photos": [],
+    "photosPath": "city-photos/27/",
     "name": "Gaziantep",
     "visitedFrom": "05/06/2026",
     "visitedTo": "07/06/2026"
@@ -219,6 +246,7 @@
     "code": "28",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/28/",
     "name": "Giresun",
     "visitedFrom": null,
     "visitedTo": null
@@ -227,6 +255,7 @@
     "code": "29",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/29/",
     "name": "Gümüşhane",
     "visitedFrom": null,
     "visitedTo": null
@@ -235,6 +264,7 @@
     "code": "30",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/30/",
     "name": "Hakkâri",
     "visitedFrom": null,
     "visitedTo": null
@@ -243,6 +273,7 @@
     "code": "31",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/31/",
     "name": "Hatay",
     "visitedFrom": null,
     "visitedTo": null
@@ -251,6 +282,7 @@
     "code": "32",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/32/",
     "name": "Isparta",
     "visitedFrom": null,
     "visitedTo": null
@@ -259,6 +291,7 @@
     "code": "33",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/33/",
     "name": "Mersin",
     "visitedFrom": null,
     "visitedTo": null
@@ -267,6 +300,7 @@
     "code": "34",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/34/",
     "name": "İstanbul",
     "visitedFrom": null,
     "visitedTo": null
@@ -275,6 +309,7 @@
     "code": "35",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/35/",
     "name": "İzmir",
     "visitedFrom": null,
     "visitedTo": null
@@ -283,6 +318,7 @@
     "code": "36",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/36/",
     "name": "Kars",
     "visitedFrom": null,
     "visitedTo": null
@@ -291,6 +327,7 @@
     "code": "37",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/37/",
     "name": "Kastamonu",
     "visitedFrom": null,
     "visitedTo": ""
@@ -299,6 +336,7 @@
     "code": "38",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/38/",
     "name": "Kayseri",
     "visitedFrom": null,
     "visitedTo": null
@@ -307,6 +345,7 @@
     "code": "39",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/39/",
     "name": "Kırklareli",
     "visitedFrom": null,
     "visitedTo": null
@@ -315,6 +354,7 @@
     "code": "40",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/40/",
     "name": "Kırşehir",
     "visitedFrom": null,
     "visitedTo": null
@@ -323,6 +363,7 @@
     "code": "41",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/41/",
     "name": "Kocaeli",
     "visitedFrom": null,
     "visitedTo": null
@@ -331,6 +372,7 @@
     "code": "42",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/42/",
     "name": "Konya",
     "visitedFrom": null,
     "visitedTo": ""
@@ -339,6 +381,7 @@
     "code": "43",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/43/",
     "name": "Kütahya",
     "visitedFrom": null,
     "visitedTo": null
@@ -347,6 +390,7 @@
     "code": "44",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/44/",
     "name": "Malatya",
     "visitedFrom": null,
     "visitedTo": null
@@ -355,6 +399,7 @@
     "code": "45",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/45/",
     "name": "Manisa",
     "visitedFrom": null,
     "visitedTo": null
@@ -363,6 +408,7 @@
     "code": "46",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/46/",
     "name": "Kahramanmaraş",
     "visitedFrom": null,
     "visitedTo": null
@@ -371,6 +417,7 @@
     "code": "47",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/47/",
     "name": "Mardin",
     "visitedFrom": null,
     "visitedTo": null
@@ -379,6 +426,7 @@
     "code": "48",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/48/",
     "name": "Muğla",
     "visitedFrom": null,
     "visitedTo": null
@@ -387,6 +435,7 @@
     "code": "49",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/49/",
     "name": "Muş",
     "visitedFrom": null,
     "visitedTo": null
@@ -395,6 +444,7 @@
     "code": "50",
     "visited": true,
     "photos": [],
+    "photosPath": "city-photos/50/",
     "name": "Nevşehir",
     "visitedFrom": "31/01/2026",
     "visitedTo": "01/02/2026"
@@ -403,6 +453,7 @@
     "code": "51",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/51/",
     "name": "Niğde",
     "visitedFrom": null,
     "visitedTo": ""
@@ -411,6 +462,7 @@
     "code": "52",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/52/",
     "name": "Ordu",
     "visitedFrom": null,
     "visitedTo": null
@@ -419,6 +471,7 @@
     "code": "53",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/53/",
     "name": "Rize",
     "visitedFrom": null,
     "visitedTo": null
@@ -427,6 +480,7 @@
     "code": "54",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/54/",
     "name": "Sakarya",
     "visitedFrom": null,
     "visitedTo": null
@@ -435,6 +489,7 @@
     "code": "55",
     "visited": true,
     "photos": [],
+    "photosPath": "city-photos/55/",
     "name": "Samsun",
     "visitedFrom": "30/04/2026",
     "visitedTo": "03/05/2026"
@@ -443,6 +498,7 @@
     "code": "56",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/56/",
     "name": "Siirt",
     "visitedFrom": null,
     "visitedTo": null
@@ -451,6 +507,7 @@
     "code": "57",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/57/",
     "name": "Sinop",
     "visitedFrom": null,
     "visitedTo": null
@@ -459,6 +516,7 @@
     "code": "58",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/58/",
     "name": "Sivas",
     "visitedFrom": null,
     "visitedTo": null
@@ -467,6 +525,7 @@
     "code": "59",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/59/",
     "name": "Tekirdağ",
     "visitedFrom": null,
     "visitedTo": null
@@ -475,6 +534,7 @@
     "code": "60",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/60/",
     "name": "Tokat",
     "visitedFrom": null,
     "visitedTo": null
@@ -483,6 +543,7 @@
     "code": "61",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/61/",
     "name": "Trabzon",
     "visitedFrom": null,
     "visitedTo": null
@@ -491,6 +552,7 @@
     "code": "62",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/62/",
     "name": "Tunceli",
     "visitedFrom": null,
     "visitedTo": null
@@ -499,6 +561,7 @@
     "code": "63",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/63/",
     "name": "Şanlıurfa",
     "visitedFrom": null,
     "visitedTo": null
@@ -507,6 +570,7 @@
     "code": "64",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/64/",
     "name": "Uşak",
     "visitedFrom": null,
     "visitedTo": null
@@ -515,6 +579,7 @@
     "code": "65",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/65/",
     "name": "Van",
     "visitedFrom": null,
     "visitedTo": null
@@ -523,6 +588,7 @@
     "code": "66",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/66/",
     "name": "Yozgat",
     "visitedFrom": null,
     "visitedTo": null
@@ -531,6 +597,7 @@
     "code": "67",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/67/",
     "name": "Zonguldak",
     "visitedFrom": null,
     "visitedTo": null
@@ -539,6 +606,7 @@
     "code": "68",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/68/",
     "name": "Aksaray",
     "visitedFrom": null,
     "visitedTo": null
@@ -547,6 +615,7 @@
     "code": "69",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/69/",
     "name": "Bayburt",
     "visitedFrom": null,
     "visitedTo": null
@@ -555,6 +624,7 @@
     "code": "70",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/70/",
     "name": "Karaman",
     "visitedFrom": null,
     "visitedTo": null
@@ -563,6 +633,8 @@
     "code": "71",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/71/",
+    "name": "Kırıkkale",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -570,6 +642,8 @@
     "code": "72",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/72/",
+    "name": "Batman",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -577,6 +651,8 @@
     "code": "73",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/73/",
+    "name": "Şırnak",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -584,6 +660,8 @@
     "code": "74",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/74/",
+    "name": "Bartın",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -591,6 +669,8 @@
     "code": "75",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/75/",
+    "name": "Ardahan",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -598,6 +678,8 @@
     "code": "76",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/76/",
+    "name": "Iğdır",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -605,6 +687,8 @@
     "code": "77",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/77/",
+    "name": "Yalova",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -612,6 +696,8 @@
     "code": "78",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/78/",
+    "name": "Karabük",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -619,6 +705,8 @@
     "code": "79",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/79/",
+    "name": "Kilis",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -626,6 +714,8 @@
     "code": "80",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/80/",
+    "name": "Osmaniye",
     "visitedFrom": null,
     "visitedTo": null
   },
@@ -633,6 +723,8 @@
     "code": "81",
     "visited": false,
     "photos": [],
+    "photosPath": "city-photos/81/",
+    "name": "Düzce",
     "visitedFrom": null,
     "visitedTo": null
   }

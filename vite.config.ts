@@ -1,11 +1,60 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { defineConfig } from "vite";
+import { defineConfig, type PluginOption } from "vite";
 import react from "@vitejs/plugin-react";
 import svgr from "vite-plugin-svgr";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const cityPhotosDirectory = path.resolve(__dirname, "public/city-photos");
+
+function cityPhotosPlugin(): PluginOption {
+  const virtualModuleId = "virtual:city-photos";
+  const resolvedVirtualModuleId = `\0${virtualModuleId}`;
+
+  const findCityPhotos = (directory: string): string[] => {
+    let entries;
+    try {
+      entries = readdirSync(directory, { withFileTypes: true });
+    } catch {
+      return [];
+    }
+
+    return entries.flatMap((entry) => {
+      const entryPath = path.join(directory, entry.name);
+      if (entry.isDirectory()) return findCityPhotos(entryPath);
+      if (!/\.(avif|gif|jpe?g|png|webp)$/i.test(entry.name)) return [];
+
+      return [
+        path.relative(path.resolve(__dirname, "public"), entryPath)
+          .split(path.sep)
+          .join("/"),
+      ];
+    });
+  };
+
+  return {
+    name: "city-photos",
+    resolveId(id) {
+      return id === virtualModuleId ? resolvedVirtualModuleId : null;
+    },
+    load(id) {
+      if (id !== resolvedVirtualModuleId) return null;
+      return `export default ${JSON.stringify(findCityPhotos(cityPhotosDirectory))};`;
+    },
+    configureServer(server) {
+      server.watcher.add(cityPhotosDirectory);
+    },
+    handleHotUpdate({ file, server }) {
+      if (!file.startsWith(cityPhotosDirectory)) return;
+
+      const virtualModule = server.moduleGraph.getModuleById(resolvedVirtualModuleId);
+      if (virtualModule) server.moduleGraph.invalidateModule(virtualModule);
+      server.ws.send({ type: "full-reload" });
+      return [];
+    },
+  };
+}
 
 function cityPersistencePlugin() {
   return {
@@ -57,5 +106,5 @@ function cityPersistencePlugin() {
 
 export default defineConfig({
   base: "/widget-love/",
-  plugins: [react(), svgr(), cityPersistencePlugin()],
+  plugins: [react(), svgr(), cityPhotosPlugin(), cityPersistencePlugin()],
 });
